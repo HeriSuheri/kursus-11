@@ -23,14 +23,20 @@ const DUMMY_MEALS = [
   },
   {
     id: 'm4',
-    name: 'Green Bowl',
-    description: 'Healthy...and green...',
-    price: 18.99,
+    name: 'Ketoprak',
+    description: 'Crunchy...',
+    price: 10.99,
   },
   {
     id: 'm5',
     name: 'Soto',
     description: 'Delicious...',
+    price: 22.99,
+  },
+  {
+    id: 'm6',
+    name: 'BASO',
+    description: 'popular food...',
     price: 22.99,
   },
 ];
