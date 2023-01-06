@@ -20,6 +20,7 @@
   height: 25rem;
   z-index: 0;
   overflow: hidden;
+  background-color: aliceblue;
 }
 
 .main-image img {
