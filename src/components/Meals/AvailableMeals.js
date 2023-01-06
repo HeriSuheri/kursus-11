@@ -33,6 +33,12 @@ const DUMMY_MEALS = [
     description: 'Delicious...',
     price: 22.99,
   },
+  {
+    id: 'm6',
+    name: 'BASO',
+    description: 'popular food...',
+    price: 22.99,
+  },
 ];
 
 const AvailableMeals = () => {
