@@ -1,54 +1,49 @@
-import Card from '../UI/Card';
-import MealItem from './MealItem/MealItem';
-import classes from './AvailableMeals.module.css';
+import Card from "../UI/Card";
+import MealItem from "./MealItem/MealItem";
+import classes from "./AvailableMeals.module.css";
 
 const DUMMY_MEALS = [
   {
-    id: 'm1',
-    name: 'Sushi',
-    description: 'Finest fish and veggies',
+    id: "m1",
+    name: "Sushi",
+    description: "Finest fish and veggies",
     price: 22.99,
   },
   {
-    id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
-    price: 20.00,
+    id: "m2",
+    name: "Schnitzel",
+    description: "A german specialty!",
+    price: 20.0,
   },
   {
-    id: 'm3',
-    name: 'Barbecue ',
-    description: 'American, raw, meaty',
+    id: "m3",
+    name: "Barbecue ",
+    description: "American, raw, meaty",
     price: 12.99,
   },
   {
-    id: 'm4',
-    name: 'Ketoprak',
-    description: 'Crunchy...',
+    id: "m4",
+    name: "Ketoprak",
+    description: "Crunchy...",
     price: 10.99,
   },
   {
-    id: 'm5',
-    name: 'Soto',
-    description: 'Delicious...',
+    id: "m5",
+    name: "Soto",
+    description: "Delicious...",
     price: 22.99,
   },
   {
-    id: 'm6',
-    name: 'BASO',
-    description: 'popular food...',
+    id: "m6",
+    name: "BASO",
+    description: "popular food...",
     price: 22.99,
   },
   {
-    id: 'm7',
-    name: 'MIE AYAM',
-
-    
+    id: "m7",
+    name: "MIE AYAM",
     price: 22.99,
-
-    description: 'hmm yummy...',
-  
-
+    description: "hmm yummy...",
   },
 ];
 
