@@ -42,7 +42,7 @@ const DUMMY_MEALS = [
   {
     id: 'm7',
     name: 'MIE AYAM',
-    description: 'hmm yummy...',
+    description: '...',
     price: 22.99,
   },
 ];
